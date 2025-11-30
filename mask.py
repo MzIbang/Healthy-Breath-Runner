@@ -90,7 +90,6 @@ class Mask:
 
     @staticmethod
     def create_random():
-        # Buat mask di posisi random
         y = random.uniform(MASK_SPAWN_MIN_Y, MASK_SPAWN_MAX_Y)
         x = SCREEN_WIDTH + MASK_SIZE
         return Mask(x, y)

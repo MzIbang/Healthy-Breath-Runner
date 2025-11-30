@@ -72,3 +72,4 @@ Player jump mechanics:
 - Player height: 60 pixels
 - Allows clearing low obstacles while high obstacles can be avoided by staying grounded
 
+
